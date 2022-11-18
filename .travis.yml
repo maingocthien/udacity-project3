@@ -30,5 +30,3 @@ after_success:
   - docker push thienmn1/udagram-api-user:v1
   - docker push thienmn1/udagram-frontend:v1
   - docker push thienmn1/udagram-reverseproxy:v1
-
-# End 
